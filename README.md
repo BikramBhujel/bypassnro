@@ -6,6 +6,4 @@ The script ensures you only have to select your language, region, and keyboard l
 ### How to Use
 From the initial **OOBE Screen** (where it asks for your region or network), you can open a Command Prompt window by pressing:
 * **Shift + F10**
-In the Command Prompt, type the following two commands: 
-curl -L bikrambhujel.com.np/bypass -o skip.cmd
-skip.cmd
+In the Command Prompt, type curl -L bikrambhujel.com.np/bypass -o skip.cmd and skip.cmd
