@@ -83,4 +83,3 @@ Please do not submit or request assistance for bypassing licensing or other prot
 
 ---
 
-*Made with care — use responsibly.*
