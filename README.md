@@ -76,10 +76,28 @@ Please do not submit or request assistance for bypassing licensing or other prot
 
 ---
 
+## Documentation & Tutorial
+
+Full step-by-step guide with screenshots and the latest updates:
+
+👉 **[bikrambhujel.com.np](https://www.bikrambhujel.com.np)**
+
+Direct tutorial: [How to Install Windows 11 with a Local Account — No Microsoft Account Required](https://www.bikrambhujel.com.np)
+
+---
+
 ## Notes
 
 * Always validate scripts from the internet before running them.
 * Keep backups of data and system images before performing automated setup changes.
 
 ---
+
+---
+
+## Author
+
+**Bikram Bhujel** — IT Infrastructure Specialist
+- Website: [bikrambhujel.com.np](https://www.bikrambhujel.com.np)
+- GitHub: [@BikramBhujel](https://github.com/BikramBhujel)
 
